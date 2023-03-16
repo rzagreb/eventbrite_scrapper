@@ -1,0 +1,25 @@
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+
+# due to using tox and pytest
+.tox
+.cache
+.pytest_cache
+
+# Virtual environment
+/venv
+
+# other
+/docs
+*.log 
+example*.py
+
+# Visual Studio Code
+*.code-workspace
+test_and_wheel.sh
