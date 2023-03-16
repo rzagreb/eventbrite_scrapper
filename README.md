@@ -4,14 +4,12 @@ This Python module provides a simple interface for scraping data from the Eventb
 
 **Disclaimer:** This module is **only intended for educational use**. Please use this module responsibly and do not abuse it. We do not endorse or condone any unauthorized or illegal use of this module, including but not limited to using it to scrape data from Eventbrite for commercial purposes or using it to violate Eventbrite's terms of service. By using this module, you assume full responsibility for your actions and agree to use it in compliance with all applicable laws and regulations. The authors of this module are not responsible for any misuse or abuse of this module.
 
-[TOC]
-
 ## Installation
 
 To install the Eventbrite Scrapper module, you can use pip:
 
 ```bash
-pip install ...
+pip install git+https://github.com/rzagreb/eventbrite_scrapper.git
 ```
 
 ## Usage
